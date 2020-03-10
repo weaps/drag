@@ -1,4 +1,4 @@
-# video-demo
+# drag-demo
 
 ## Project setup
 ```
